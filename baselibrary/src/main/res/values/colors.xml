@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E6D9B</color>
+    <color name="colorPrimaryDark">#1E6D9B</color>
+    <color name="colorAccent">#60a5fe</color>
+
+    <color name="bg_red">#FF5050</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="line">#E6E6E6</color>
+
+     <!--字体颜色-->
+    <color name="text_red">#FF5050</color>
+    <color name="text_darkgray_c8">#c8c8c8</color>
+    <color name="text_black">#323232</color>
+    <color name="text_ash">#787878</color>
+    <color name="text_FFBA00">#FFBA00</color>
+    <color name="text_B29269">#B29269</color>
+    <color name="text_54AF66">#54AF66</color>
+    <color name="text_2441D1">#2441D1</color>
+
+</resources>
